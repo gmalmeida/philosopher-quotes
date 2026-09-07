@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Sagius Philosopher Quotes
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - family-names: Almeida
+    given-names: Gabriel Marchesan
+repository-code: https://github.com/gmalmeida/philosopher-quotes
+url: https://sagius.app
+license: CC-BY-4.0

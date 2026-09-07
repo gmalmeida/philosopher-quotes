@@ -1,0 +1,22 @@
+{
+  "githubRepo": "gmalmeida/philosopher-quotes",
+  "githubUrl": "https://github.com/gmalmeida/philosopher-quotes",
+  "githubRawBase": "https://raw.githubusercontent.com/gmalmeida/philosopher-quotes/main",
+  "quotesPerLang": {
+    "en": 3613,
+    "fr": 3594,
+    "pt": 3597,
+    "de": 3595,
+    "es": 3593
+  },
+  "authorCount": 160,
+  "cutoffYear": 1955,
+  "langs": [
+    "en",
+    "fr",
+    "pt",
+    "de",
+    "es"
+  ],
+  "license": "CC-BY-4.0"
+}
