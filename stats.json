@@ -3,11 +3,11 @@
   "githubUrl": "https://github.com/gmalmeida/philosopher-quotes",
   "githubRawBase": "https://raw.githubusercontent.com/gmalmeida/philosopher-quotes/main",
   "quotesPerLang": {
-    "en": 3613,
-    "fr": 3594,
-    "pt": 3597,
-    "de": 3595,
-    "es": 3593
+    "en": 4731,
+    "fr": 4731,
+    "pt": 4731,
+    "de": 4731,
+    "es": 4731
   },
   "authorCount": 160,
   "cutoffYear": 1955,

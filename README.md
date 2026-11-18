@@ -9,10 +9,10 @@ repository: https://github.com/gmalmeida/philosopher-quotes
 
 # Sagius Philosopher Quotes
 
-3613 English quotations from 160 public-domain
+4731 English quotations from 160 public-domain
 philosophers (author died in or before 1955, i.e. life+70 already
-elapsed on Jan 1 of the current year), with parallel translations in
-French, Portuguese, German and Spanish. Row counts: en 3613, fr 3594, pt 3597, de 3595, es 3593.
+elapsed on Jan 1 of the current year), with machine translations into
+French, Portuguese, German and Spanish. Row counts: en 4731, fr 4731, pt 4731, de 4731, es 4731.
 Source catalog: [Sagius](https://sagius.app).
 
 **Public URL:** https://github.com/gmalmeida/philosopher-quotes
@@ -48,14 +48,18 @@ Or clone: `git clone https://github.com/gmalmeida/philosopher-quotes.git`
 
 - The original quote texts are in the **public domain** (every included author
   died 70+ years ago; authors not provably public-domain were excluded).
-- The **curation, metadata and translations** are released under
+- The **curation, metadata and machine translations** are released under
   **CC-BY 4.0**. Attribution: "Sagius (https://sagius.app)".
 
 ## Provenance & honesty
 
 Quotes come from the curated catalog that ships inside the Sagius app.
 Attributions were reviewed against the catalog's philosopher registry
-(238 thinkers with sourced lifespans and Wikipedia links). The English
-texts are the quotations themselves; the French, Portuguese, German and
-Spanish versions are AI-assisted translations made for the Sagius app, not
-professional translations. No other generated text is included.
+(238 thinkers with sourced lifespans and Wikipedia links).
+
+The French, Portuguese, German and Spanish rows are **machine translations**:
+they were produced with a language model (Mistral API, March 2026) and later
+corrected in part (October 2026: rows realigned to their English ids and the
+Portuguese rewritten in Brazilian Portuguese). They are not published human
+translations; check a row before quoting it. No other generated text
+(explanations, summaries) is included.
