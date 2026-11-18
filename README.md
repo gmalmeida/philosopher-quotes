@@ -55,5 +55,7 @@ Or clone: `git clone https://github.com/gmalmeida/philosopher-quotes.git`
 
 Quotes come from the curated catalog that ships inside the Sagius app.
 Attributions were reviewed against the catalog's philosopher registry
-(238 thinkers with sourced lifespans and Wikipedia links). No AI-generated
-text is included in this dataset — only the quotes themselves.
+(238 thinkers with sourced lifespans and Wikipedia links). The English
+texts are the quotations themselves; the French, Portuguese, German and
+Spanish versions are AI-assisted translations made for the Sagius app, not
+professional translations. No other generated text is included.
